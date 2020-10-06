@@ -1,4 +1,4 @@
 # testrepository
 Mainbranch edit a test repository
-Additional Commit Test
-Test Branching
+\nAdditional Commit Test
+\nTest Branching
